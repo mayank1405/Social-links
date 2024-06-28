@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL:https://mayank1405.github.io/Social-links/
 
 ## My process
 Process was simple. Made a grey box, then made two divs, one for image and text, another for the hover buttons/tabs. Applied relevant html,css properties.
